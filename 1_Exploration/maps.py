@@ -1,6 +1,5 @@
 import sys
 from os import path
-from typing import Tuple
 
 import cartopy.crs as crs
 import cartopy.feature as cfeature
