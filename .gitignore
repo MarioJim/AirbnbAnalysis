@@ -134,3 +134,6 @@ dmypy.json
 
 # AirBnb data
 train.csv
+
+# Tableau temp files
+*.twbr
